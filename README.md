@@ -1,17 +1,54 @@
-# 💫 About Me:
-🌱I am a Student 
+<h1 align="center">Hi there, I'm Likhitha S R! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__likhitha_s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Likhitha S R) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:likhithasr8@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Likhitha-creater&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Likhitha-creater&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Likhitha-creater&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">🌱 Student | 💻 Aspiring Developer | 🚀 Learning Everyday</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Likhitha-creater&icon=6&color=0)](https://visitcount.itsvg.in)
+
+### ✨ About Me:
+- 🎓 I'm a student passionate about tech and creativity.
+- 🌟 Currently learning Full Stack Development & AI.
+- 💡 Working on real-world college projects like Smart Agriculture & Food Waste Detection.
+
+---
+
+### 🌐 Connect with Me:
+<p>
+  <a href="mailto:likhithasr8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Likhitha S R" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+</p>
+
+---
+
+### 💻 Tech Stack:
+<p>
+  <img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" alt="AI" width="40" height="40"/>
+</p>
+
+---
+
+## 📂 Project
+
+### 🔧 [AI-Powered Food Waste Detection and Redistribution System](https://github.com/Likhitha-creater/AI-Powered-Food-Waste-Detection)  
+A project focused on detecting and redistributing food waste using machine learning algorithms.
+
+---
+
+### 📊 GitHub Stats:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Likhitha-creater&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhitha-creater&theme=tokyonight" width="48%">
+</p>
+
+---
+
+### 🔗 Quote for You:
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
 
