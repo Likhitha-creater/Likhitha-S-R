@@ -14,7 +14,7 @@
 ### 🌐 Connect with Me:
 <p>
   <a href="mailto:likhithasr8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/Likhitha S R" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/likhitha-s-r-2b2896359"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 ---
